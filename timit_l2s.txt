@@ -1,0 +1,80 @@
+# Stops: 
+b B
+d D
+g G
+p P
+t T
+k K
+dx DX
+q Q
+
+# Affricates:
+jh JH
+ch CH
+
+# Fricatives:
+s S
+sh SH
+z Z
+zh ZH
+f F
+th TH
+v V
+dh DH
+
+# Nasals:
+m M
+n N
+ng NG
+em EM
+en EN
+eng ENG
+nx NX
+ 
+# Semivowels and Glides:
+l L
+r R
+w W
+y Y
+hh HH
+hv HV
+el EL
+
+
+# Vowels:
+iy IY
+ih IH
+eh EH
+ey EY
+ae AE
+aa AA
+aw AW
+ay AY
+ah AH
+ao AO
+oy OY
+ow OW
+uh UH
+uw UW
+ux UX
+er ER
+ax AX
+ix IX
+axr AXR
+ax-h AX-H
+
+# Others:
+pau <UNK>
+epi <UNK>
+h# <UNK>
+1 <UNK>
+2 <UNK>
+
+
+a A
+c C
+e E
+h H
+i I
+o O
+u U
